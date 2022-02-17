@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "iSayme.vscode-prettier-standard",
+    "javascript.format.semicolons": "insert"
+}
